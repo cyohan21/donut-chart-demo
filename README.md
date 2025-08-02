@@ -1,2 +1,2 @@
 # donut-chart-demo
-Demo of my donut chart animation.
+This file is a demo of the donut chart animation that I recently posted on reddit. For reference, here's the post: https://www.reddit.com/r/reactnative/comments/1mf863c/little_design_i_made_for_my_upcoming_app_thoughts/
